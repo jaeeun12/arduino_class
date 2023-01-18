@@ -1,4 +1,4 @@
-#define POWER_R_IN1 2
+#define POWER_R_IN1 2   
 #define POWER_R_IN2 3
 #define POWER_R_ENA 5
 
